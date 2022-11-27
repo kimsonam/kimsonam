@@ -1,4 +1,4 @@
-![logo](![web-development-](https://user-images.githubusercontent.com/116437338/204142205-b0326718-532f-4d15-b8ba-897e0efc7a6e.jpg)
+(![web-development-](https://user-images.githubusercontent.com/116437338/204142205-b0326718-532f-4d15-b8ba-897e0efc7a6e.jpg)
 
 <h1 align="center">Hi 👋, I'm Sonam Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
